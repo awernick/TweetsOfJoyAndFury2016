@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:awernick/TwitterPinpointer.git
+[submodule "client"]
+	path = client
+	url = git@github.com:awernick/TwitterPinpointer.git
