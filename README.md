@@ -1,6 +1,6 @@
 # Tweets of Joy and Fury
 
-![iOS Screenshot](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/418/583/datas/gallery.jp://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/418/583/datas/gallery.jpg)
+![iOS Screenshot](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/418/583/datas/gallery.jpg)
 
 Political forecasters are constantly monitoring social media sources like Twitter, using complex analytical tools to predict which states will go to which candidate in 2016.
 
